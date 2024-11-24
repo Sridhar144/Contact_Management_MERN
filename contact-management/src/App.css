@@ -1,0 +1,35 @@
+body {
+  font-family: 'Roboto', Arial, sans-serif;
+  margin: 0;
+  background-color: #f5f5f5;
+  color: #333;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #444;
+}
+
+button {
+  font-family: 'Roboto', Arial, sans-serif;
+  font-size: 14px;
+}
+
+.MuiButton-containedPrimary {
+  background-color: #1976d2 !important;
+  color: #fff !important;
+}
+
+.MuiPaper-root {
+  border-radius: 12px;
+}
+
+.MuiTableContainer-root {
+  margin: 20px 0;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.MuiTableCell-head {
+  font-weight: bold;
+  background-color: #1976d2;
+  color: #fff;
+}
